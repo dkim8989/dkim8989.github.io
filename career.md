@@ -10,7 +10,7 @@ title: Curriculum Vitae
 * **Research Professor** (Mar. 2023 - Jul. 2024)
   * UVRC-KMOU, Busan, Korea
  
-<br/>
+
 # Education
 * **Ph.D., Convergence Study on the Ocean Science and Technology**
   * Dissertation title: Long-range underwater acoustic communication in the East Sea : Sea-going experiment and performance
