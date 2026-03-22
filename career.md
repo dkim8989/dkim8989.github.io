@@ -5,7 +5,6 @@ title: Research Career
 
 <br/>
 
-
 # Education
 * Ph.D., Convergence Study on the Ocean Science and Technology, March 2017 - February 2023
   * Korea Maritime and Ocean University, Busan, Korea
@@ -21,7 +20,6 @@ title: Research Career
   * GPA: 3.770 / 4.000 (4.27 / 4.50)
  
 <br/>
-
 
 # Research Experience
 
@@ -71,7 +69,7 @@ title: Research Career
 * Journal of the Acoustical Society of America
 * Journal of Theoretical and Computational Acoustics
 
-### TEACHING EXPERIENCE
+### Teaching experience
 
 * (August 2026 − December 2026, for undergraduate students) TBD
 * (August 2026 − December 2026, for graduate students) TBD
@@ -81,7 +79,7 @@ title: Research Career
 * (August 2022 − December 2022, for graduate students) Advanced Numerical Analysis
 * (August 2023 − December 2023, for graduate students) Sonar Signal Processing
 
-### SEA-GOING EXPERIENCE
+### Sea-going experience
 
 * Since 2018, I have participated in extensive sea-going experiments. The purpose of these experiments is to establish the feasibility of long-range underwater acoustic communication in deep water near South Korea. My roles in these experiments are as follows: (1) Designing the entire experiment plan as hands-on staff (e.g., entire timetable, ship track, range between source and receiver, source/receiver depth, etc.), (2) collaborating with and communicating with companies that manufacture the source and receiving equipment, and (3) analyzing the experimental data obtained from the receiver.
 
@@ -92,8 +90,8 @@ title: Research Career
 * Early Career Award hosted by the Acoustical Society of Korea, 2025
 * Excellence prize for student researchers hosted by the Ministry of Oceans and Fisheries, The Korean Association of Ocean Science and Technology Societies, 2022
 * Excellence prize for student researchers hosted by the Ministry of Oceans and Fisheries, The Korean Association of Ocean Science and Technology Societies, 2021
-* Best Student Paper Awards at Meeting of the Acoustical Society of Korea, Nov. 2022
-* Best Student Paper Awards at Meeting of the Acoustical Society of Korea, May. 2019
-* Best Student Paper Awards at Meeting of the Acoustical Society of Korea, Nov. 2017
+* Best Student Paper Awards at Meeting of the Acoustical Society of Korea, November 2022
+* Best Student Paper Awards at Meeting of the Acoustical Society of Korea, May 2019
+* Best Student Paper Awards at Meeting of the Acoustical Society of Korea, November 2017
 * Korea Maritime and Ocean University Scholarship for Top Student (6 times)	2008–2013
   * A financial support that fully covers a BS semester, given to a student who achieved the highest GPA in a semester.
