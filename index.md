@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+title: Acoustic Researcher
+subtitle: Marine Physical Laboratory/Scripps Institution of Oceanography (MPL/SIO)
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
@@ -23,7 +23,7 @@ He loves to bring new ideas and share it with collaborators. Hello world! &#1285
 ## Contact
 
 ```
-Affiliation: Cloud Computing SW Research Section, Future Computing Research Division, Artificial Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)
-Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
+Affiliation: Marine Physical Laboratory/Scripps Institution of Oceanography (MPL/SIO)
+Office: SH-440, University of California, San Diego 9500 Gilman Dr., La Jolla, CA 92093
+Email: dok054[at]ucsd.edu or donghyeon.ual[at]gmail.com
 ```
