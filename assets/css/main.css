@@ -562,7 +562,7 @@ footer .footer-custom-content {
 .intro-header.big-img {
   /* background: no-repeat center center; */
   background-repeat: no-repeat;        /* 분리 */
-  background-position: center 50%;     /* ⭐ 여기서 조절 */
+  background-position: center 50% !important;     /* ⭐ 여기서 조절 */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -576,7 +576,7 @@ footer .footer-custom-content {
   height: 100%;
   opacity: 0;
   /* background: no-repeat center center; */
-  background-position: center 50%;
+  background-position: center 50% !important;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
