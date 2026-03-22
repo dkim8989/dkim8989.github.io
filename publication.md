@@ -4,7 +4,7 @@ title: Publication
 ---
 
 
-@ I can also be found from [Google Scholar](https://scholar.google.com/citations?user=seokhoson) and [DBLP](https://dblp.uni-trier.de/pers/hd/s/Son:Seokho).
+I can also be found from [Google Scholar](https://scholar.google.com/citations?user=seokhoson) and [DBLP](https://dblp.uni-trier.de/pers/hd/s/Son:Seokho).
 
 
 # Research Papers
@@ -40,8 +40,6 @@ title: Publication
 - **Donghyeon Kim**, Jeasoo Kim, and Jiyoung Song, _“Cancellation of dolphin sonar clicks in a communication signal based on adaptive time reversal processing,”_ [JASA Express Letters](https://doi.org/10.1121/10.0010375), vol. 2, pp. 056001 1-7, 2022.
 
 - **Donghyeon Kim**, Jeasoo Kim and Jooyoung Hahn, _“Long-range underwater communication based on time reversal processing using various diversity methods,”_ [Sensors](https://doi.org/10.3390/s22093138), vol. 22, pp. 3138 1-14, 2022.
-
-dd
 
 - **Donghyeon Kim**, Heejin Park, Jeasoo Kim, and Joo-Young Hahn, _“Application of ray-based blind deconvolution to long-range acoustic communication in deep water,”_ [Journal of the Acoustical Society of Korea](https://doi.org/10.7776/ASK.2022.41.2.242), vol. 41, pp. 242-253, 2022.
 
