@@ -6,7 +6,32 @@ title: Research Career
 <br/>
 
 
+# Education
+* Ph.D., Convergence Study on the Ocean Science and Technology, March 2017 - February 2023
+  * Korea Maritime and Ocean University, Busan, Korea
+  * Dissertation title: Long-range underwater acoustic communication in the East Sea : Sea-going experiment and performance
+  * Advisor: Jeasoo Kim, Professor of Ocean Engineering
+* M.S., Ocean Engineering, March 2014 - February 2016
+  * Korea Maritime and Ocean University, Busan, Korea
+  * Thesis title: Computationally efficient algorithm for target echoes
+  * Advisor: Jeasoo Kim, Professor of Ocean Engineering
+* B.S., Ocean Engineering, March 2008 - February 2014
+  * Korea Maritime and Ocean University, Busan, Korea
+  * summa cum laude (1/N in Ocean Engineering, 2/M in College of Ocean Science and Engineering
+  * GPA: 3.770 / 4.000 (4.27 / 4.50)
+ 
+<br/>
+
+
 # Research Experience
+
+### Research Experience
+* Postdoctoral research scientist
+  * MPL-SIO UCSD, San Diego, CA, USA
+  * August 2024 - Present
+* Research Professor
+  * UVRC-KMOU, Busan, Korea
+  * March 2023 - July 2024
 
 ### Funded projects
 * **Moving ship tomography** funded by the U.S. Office of Naval Research (ONR)
