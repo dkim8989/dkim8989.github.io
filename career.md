@@ -5,9 +5,9 @@ title: Curriculum Vitae
 
 
 # Professional Experience
-* **Postdoctoral research scientist** (Aug. 2024 - Present)
+* **Postdoctoral research scientist** (Aug. 2024 − Present)
   * Scripps Institution of Oceanography, University of California San Diego; La Jolla, Calif.
-* **Research Professor** (Mar. 2023 - Jul. 2024)
+* **Research Professor** (Mar. 2023 − Jul. 2024)
   * UVRC-KMOU, Busan, Korea
 
 <br/>
@@ -17,15 +17,15 @@ title: Curriculum Vitae
   * Dissertation title: Long-range underwater acoustic communication in the East Sea : Sea-going experiment and performance
   * Korea Maritime and Ocean University, Busan, Korea
   * Advisor: Jeasoo Kim, Professor of Ocean Engineering
-  * Mar. 2017 - Feb. 2023
+  * Mar. 2017 − Feb. 2023
 * **M.S., Ocean Engineering**
   * Thesis title: Computationally efficient algorithm for target echoes
   * Korea Maritime and Ocean University, Busan, Korea
   * Advisor: Jeasoo Kim, Professor of Ocean Engineering
-  * Mar. 2014 - Feb. 2016
+  * Mar. 2014 − Feb. 2016
 * **B.S., Ocean Engineering**
   * Korea Maritime and Ocean University, Busan, Korea
-  * Mar. 2008 - Feb. 2014
+  * Mar. 2008 − Feb. 2014
   <!-- * summa cum laude (1/N in Ocean Engineering, 2/M in College of Ocean Science and Engineering -->
   <!-- * GPA: 3.770 / 4.000 (4.27 / 4.50) -->
 
@@ -38,7 +38,7 @@ title: Curriculum Vitae
 * Best Student Paper Awards at Meeting of the Acoustical Society of Korea, November 2022
 * Best Student Paper Awards at Meeting of the Acoustical Society of Korea, May 2019
 * Best Student Paper Awards at Meeting of the Acoustical Society of Korea, November 2017
-* Korea Maritime and Ocean University Scholarship for Top Student (6 times)	2008–2013
+* Korea Maritime and Ocean University Scholarship for Top Student (6 times)	2008 − 2013
   * A financial support that fully covers a BS semester, given to a student who achieved the highest GPA in a semester.
 
 <br/>
@@ -92,7 +92,7 @@ title: Curriculum Vitae
 
 * International Conference of Theoretical and Computational Acoustics (ICTCA) 2025, Busan, Korea, 2025 [Session title: Model-based and data-driven approaches in underwater acoustics]
 
-### Journal referee for
+### Reviewer
 
 * Journal of the Acoustical Society of America
 * Journal of Theoretical and Computational Acoustics
