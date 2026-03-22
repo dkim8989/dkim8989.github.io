@@ -10,6 +10,8 @@ title: Curriculum Vitae
 * **Research Professor** (Mar. 2023 - Jul. 2024)
   * UVRC-KMOU, Busan, Korea
 
+<br/>
+
 # Education
 * **Ph.D., Convergence Study on the Ocean Science and Technology**
   * Dissertation title: Long-range underwater acoustic communication in the East Sea : Sea-going experiment and performance
@@ -36,6 +38,8 @@ title: Curriculum Vitae
 * Best Student Paper Awards at Meeting of the Acoustical Society of Korea, November 2022
 * Best Student Paper Awards at Meeting of the Acoustical Society of Korea, May 2019
 * Best Student Paper Awards at Meeting of the Acoustical Society of Korea, November 2017
+* Korea Maritime and Ocean University Scholarship for Top Student (6 times)	2008–2013
+  * A financial support that fully covers a BS semester, given to a student who achieved the highest GPA in a semester.
 
 <br/>
 
@@ -48,6 +52,7 @@ title: Curriculum Vitae
 * Korea Maritime and Ocean University (KMOU), 2024
 
 <br/>
+
 # Teaching
 * (August 2026 − December 2026, for undergraduate students) TBD
 * (August 2026 − December 2026, for graduate students) TBD
@@ -58,6 +63,7 @@ title: Curriculum Vitae
 * (August 2023 − December 2023, for graduate students) Sonar Signal Processing
 
 <br/>
+
 # Sea-going experience
 
 * Since 2018, I have participated in extensive sea-going experiments. The purpose of these experiments is to establish the feasibility of long-range underwater acoustic communication in deep water near South Korea. My roles in these experiments are as follows: (1) Designing the entire experiment plan as hands-on staff (e.g., entire timetable, ship track, range between source and receiver, source/receiver depth, etc.), (2) collaborating with and communicating with companies that manufacture the source and receiving equipment, and (3) analyzing the experimental data obtained from the receiver.
@@ -79,6 +85,8 @@ title: Curriculum Vitae
   * Role: Hands-on staff (Ph.D. course)
   * Period: 12.01.2017 - 12.15.2022
 
+<br/>
+
 # Service and Outreach
 ### Special session organizing chair
 
@@ -98,5 +106,4 @@ title: Curriculum Vitae
 
 
 
-* Korea Maritime and Ocean University Scholarship for Top Student (6 times)	2008–2013
-  * A financial support that fully covers a BS semester, given to a student who achieved the highest GPA in a semester.
+
