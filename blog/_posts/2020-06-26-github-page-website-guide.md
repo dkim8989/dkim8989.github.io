@@ -7,6 +7,7 @@ gh-badge: [star, fork, follow]
 cover-img: /assets/img/cat-taesik-wide.jpg
 tags: [Website, Blog, GitHub, Guide, How to, Seokho Son, Open source]
 comments: true
+published: false
 ---
 
 ## 개요
