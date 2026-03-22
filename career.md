@@ -32,19 +32,19 @@ title: Research Career
   * March 2023 - July 2024
 
 ### Funded projects
-* **Moving ship tomography** funded by the U.S. Office of Naval Research (ONR)
+* **Moving ship tomography,** funded by the U.S. Office of Naval Research (ONR)
   * Role: Researcher
   * Period: 08.01.2024 - 01.31.2026
 * **Basic Science Research Program through the National Research Foundation of Korea (NRF),** funded by he Ministry of Education
   * Role: P.I.
   * Period: 09.01.2023 - 07.31.2024
-* **Optimization of Transmission and Received Signals for Simultaneous Torpedo Operation: Research and Validation Equipment Implementatio** funded by LIG Nex1
+* **Optimization of Transmission and Received Signals for Simultaneous Torpedo Operation: Research and Validation Equipment Implementatio,** funded by LIG Nex1
   * Role: Researcher
   * Period: 06.01.2023 - 04.30.2024
-* **Ocean Environmental Survey Analysis and Sensor Deployment Strategy** funded by Korea Institute of Ocean Science & Technology (KIOST)
+* **Ocean Environmental Survey Analysis and Sensor Deployment Strategy,** funded by Korea Institute of Ocean Science & Technology (KIOST)
   * Role: Researcher
   * Period: 03.01.2023 - 08.31.2023
-* **Long Range Biomimetic Covert Underwater Acoustic Communication Research Laboratory (BC-4 : Study on Long-Range Underwater Acoustic Communication) through the National Research Foundation of Korea (NRF)** funded by the Ministry of Science and ICT
+* **Long Range Biomimetic Covert Underwater Acoustic Communication Research Laboratory (BC-4 : Study on Long-Range Underwater Acoustic Communication) through the National Research Foundation of Korea (NRF),** funded by the Ministry of Science and ICT
   * Role: Hands-on staff (Ph.D. course)
   * Period: 12.01.2017 - 12.15.2022
 
