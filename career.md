@@ -71,6 +71,8 @@ For a comprehensive overview of my work, please refer to my CV: <a href="/assets
 
 * Since 2018, I have participated in extensive sea-going experiments. The purpose of these experiments is to establish the feasibility of long-range underwater acoustic communication in deep water near South Korea. My roles in these experiments are as follows: (1) Designing the entire experiment plan as hands-on staff (e.g., entire timetable, ship track, range between source and receiver, source/receiver depth, etc.), (2) collaborating with and communicating with companies that manufacture the source and receiving equipment, and (3) analyzing the experimental data obtained from the receiver.
 
+<br/>
+
 # Research projects
 * **Moving ship tomography,** funded by the U.S. Office of Naval Research (ONR)
   * Role: Researcher
