@@ -29,5 +29,5 @@ He loves to bring new ideas and share it with collaborators. Hello world! &#1285
 ```
 Affiliation: Marine Physical Laboratory/Scripps Institution of Oceanography (MPL/SIO)
 Office: SH-440, University of California, San Diego 9500 Gilman Dr., La Jolla, CA 92093
-Email: dok054[at]ucsd.edu or donghyeon.ual[at]gmail.com
+Email: dok054@ucsd.edu or donghyeon.ual@gmail.com
 ```
