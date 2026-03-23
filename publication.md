@@ -4,12 +4,18 @@ title: Publication
 ---
 
 
-<!-- I can also be found from [Google Scholar](https://scholar.google.com/citations?user=seokhoson) and [DBLP](https://dblp.uni-trier.de/pers/hd/s/Son:Seokho). -->
+I can also be found from [Google Scholar](https://scholar.google.com/citations?user=seokhoson).
 
 
 # Research Papers
 
 <!-- ### Journal Papers -->
+
+- **Donghyeon Kim**, Hee-Chun Song, Gihoon Byun, F. Hunter Akins, and Matthew A. Dzieciuch (in prep)
+
+- **Donghyeon Kim**, Ying-Tsong Lin, and Bill Hodgkiss (in prep)
+
+- **Donghyeon Kim** and Gihoon Byun, _“Green's function extrapolation with a generalized waveguide invariant,”_ [Journal of Theoretical and Computational Acoustics](https://doi.org/10.1142/S2591728526500064), vol. 72, pp. 2650006 1–15, 2026.
 
 - **Donghyeon Kim** and Gihoon Byun, _“Green's function extrapolation with a generalized waveguide invariant,”_ [Journal of Theoretical and Computational Acoustics](https://doi.org/10.1142/S2591728526500064), vol. 72, pp. 2650006 1–15, 2026.
 
