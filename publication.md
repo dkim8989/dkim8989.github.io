@@ -4,7 +4,7 @@ title: Publication
 ---
 
 
-I can also be found from [Google Scholar](https://scholar.google.com/citations?user=seokhoson).
+You can also be found from [Google Scholar](https://scholar.google.com/citations?user=8SwZoVQAAAAJ).
 
 
 # Research Papers
