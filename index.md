@@ -9,7 +9,7 @@ cover-img: /assets/img/ASA_dkim_1.jpg
 
 ## About me
 
-Welcome! I am a researcher in underwater acoustics and oceanography and am a Postdoctoral Research Associate at Scripps Institution of Oceanography, University of California San Diego, working with Dr. Hee-Chun Song and Prof. Ying-Tsong Lin. My work is focused on ocean acoustics, combining physics-based insights with data-driven techniques. My research interests include SONAR signal processing, passive acoustic monitoring, source localization, array processing, remote sensing, and the application of machine learning to acoustics-related problems. I love to bring new ideas and share it with collaborators. Hello world!
+Welcome! I am a researcher in underwater acoustics and oceanography, currently a Postdoctoral Research Associate at Scripps Institution of Oceanography/University of California San Diego, working with Dr. Hee-Chun Song and Prof. Ying-Tsong Lin. My work is focused on ocean acoustics, combining physics-based insights with data-driven techniques. My research interests include SONAR signal processing, passive acoustic monitoring, source localization, array processing, remote sensing, and the application of machine learning to acoustics-related problems. I love to bring new ideas and share it with collaborators. Hello world!
 <a href="/assets/files/CV.pdf" style="font-weight: 600; text-decoration: underline;">Curriculum Vitae</a>
 
 <!-- **Seokho Son** is a **_senior researcher_** and **_open source special fellow_** of [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Korean government-funded national research institute). He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
