@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<a href="/assets/files/CV_Kyle.pdf" class="btn">[Download CV]</a>
+<a href="/assets/files/CV.pdf" class="btn">[Download CV]</a>
 
 <br/>
 
