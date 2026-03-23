@@ -3,11 +3,9 @@ layout: page
 title: Curriculum Vitae
 ---
 
-# Curriculum Vitae
+<!-- # Curriculum Vitae  -->
 
 <!-- <a href="/assets/files/CV.pdf" class="btn btn-primary">Download CV</a> -->
-
-<br/>
 
 # Professional Experience
 * **Postdoctoral research scientist** (Aug. 2024 − Present)
