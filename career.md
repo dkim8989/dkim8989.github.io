@@ -50,7 +50,7 @@ For a comprehensive overview of my work, please refer to my CV: <a href="/assets
 # Invited talks
 
 * 189th Meeting of Acoustical Society of America – Joint with Acoustical Society of Japan, Hawaii, 2025 [D. Kim, G. Byun, and H. C. Song, Estimating launch and reception angles with a single source and a vertical receiver array]
-* Applied Ocean Science (AOS) seminar, Scripps Institution of Oceanography, 2025
+* Applied Ocean Science (AOS) seminar with Dr. Hee-Chun Song, Scripps Institution of Oceanography, 2025
 * Korea Maritime and Ocean University (KMOU), 2025
 * Korea Research Institute of Ships & Ocean Engineering (KRISO), 2024
 * Korea Maritime and Ocean University (KMOU), 2024
