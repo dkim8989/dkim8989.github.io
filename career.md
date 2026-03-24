@@ -49,11 +49,16 @@ For a comprehensive overview of my work, please refer to my CV: <a href="/assets
 
 # Invited talks
 
-* 189th Meeting of Acoustical Society of America – Joint with Acoustical Society of Japan, Hawaii, 2025 <span style="color:#1f77b4">[D. Kim, G. Byun, and H. C. Song, Estimating launch and reception angles with a single source and a vertical receiver array]</span>
-* Applied Ocean Science (AOS) seminar with Dr. Hee-Chun Song, Scripps Institution of Oceanography, 2025 <span style="color:#1f77b4">[Waveguide Invariant Physics and Its Expanding Applications]</span>
-* Korea Maritime and Ocean University (KMOU), 2025 <span style="color:#1f77b4">[Where sound becomes data: Working with acoustic experiments]</span>
-* Korea Research Institute of Ships & Ocean Engineering (KRISO), 2024 <span style="color:#1f77b4">[Long-range underwater acoustic communication in the East Sea]</span>
-* Korea Maritime and Ocean University (KMOU), 2024 <span style="color:#1f77b4">[Long-range underwater acoustic communication in the East Sea]</span>
+* 189th Meeting of Acoustical Society of America – Joint with Acoustical Society of Japan, Hawaii, 2025 <br>
+  <span style="color:#1f77b4">[D. Kim, G. Byun, and H. C. Song, Estimating launch and reception angles with a single source and a vertical receiver array]</span>
+* Applied Ocean Science (AOS) seminar with Dr. Hee-Chun Song, Scripps Institution of Oceanography, 2025 <br>
+  <span style="color:#1f77b4">[Waveguide Invariant Physics and Its Expanding Applications]</span>
+* Korea Maritime and Ocean University (KMOU), 2025 <br>
+  <span style="color:#1f77b4">[Where sound becomes data: Working with acoustic experiments]</span>
+* Korea Research Institute of Ships & Ocean Engineering (KRISO), 2024 <br>
+  <span style="color:#1f77b4">[Long-range underwater acoustic communication in the East Sea]</span>
+* Korea Maritime and Ocean University (KMOU), 2024 <br>
+  <span style="color:#1f77b4">[Long-range underwater acoustic communication in the East Sea]</span>
 
 <br/>
 
